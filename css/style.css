@@ -1,0 +1,97 @@
+#ots{
+	padding-top: 500px;
+
+}
+.rez {
+	display:inline-block; 
+	padding-top: 435px;
+	float: left;
+
+}
+#bg {
+	display:inline-block; 
+	width:100%;
+    height:500px;
+	background:url(../img/p4.jpg) no-repeat 50% 50% / cover;
+	position: absolute;
+	background-size: 100% 500px;
+}
+#head-ul{
+	font-size: 1.2vw;
+	padding: 0 50px;	
+	margin: 0 85px;
+
+}
+#head-ul tr td{
+	width: 25vw;
+}
+#head-ul a{
+	text-decoration: none;
+	color: #05A7FF;
+	width:9vw;
+	
+}
+#descr  {
+	table-layout: fixed;
+	margin: 0 10px;
+	padding: 0 15px 150px;
+	width:94%;
+}
+#descr tr td h2{
+	font-size: 1.8vw;
+	padding: 10px;
+	font-family: Arial, serif;
+	font-weight: normal
+	
+}
+#descr  tr td{
+	font-size: 1.1vw;
+}
+#descr  tr td img{
+	width: 100%;
+}
+.tr td img {
+	width: 40%;
+}
+#tv{
+	padding: 0 15px 50px;
+	margin: 0 10px;
+}
+#tv h1{
+	font-size: 3.5vw;
+	font-family: Arial, serif;
+	margin: 0 ;
+  	padding: 0 0 5px;
+  	line-height: 15px;
+}
+#tv p {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1.2vw;
+}
+#futer {
+	table-layout: fixed;
+	margin: 0 10px;
+	padding: 0 15px ;
+	width:94%;
+}
+#futer  tr td h2{
+	font-size: 1.6vw;
+	font-family: Arial, serif;
+	font-weight: normal;
+	margin: 0;
+  	padding: 0;
+line-height: 20px;
+
+}
+#futer  tr td p{
+
+	font-size: 1.2vw;
+	padding: 0 0 20px;
+}
+#futer tr td button {
+	font-size: 1.3vw;
+	width: 13.5vw;
+	height: 3vw;
+	color: white;
+	background-color: black;
+}
